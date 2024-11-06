@@ -2,5 +2,6 @@
 
 void Application::run()
 {
-    
+    Database *database=new Database("bank.db");
+    delete database;
 }

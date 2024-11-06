@@ -1,3 +1,5 @@
+#include "Database.h"
+
 class Application
 {
 public:
